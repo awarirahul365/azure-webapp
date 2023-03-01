@@ -28,6 +28,32 @@
   color: #61dafb;
 }
 
+.fxt-infoBox-container .fxc-infoBox-text {
+  padding: 16px 0 16px 0;
+}
+
+.fxc-infoBox-text {
+  width: 100%;
+  margin-left: 20px;
+  
+  background-color: #fff8f0;
+  border-color: #fff8f0;
+}
+.top-container{
+  text-align: left;
+  font-size: 1.25em;
+  margin-bottom: 12px;
+  font-weight: bold;
+}
+.bottom-container{
+  margin-right: 25px;
+  text-align: left;
+  font-size: 0.95em;
+}
+.Header{
+  text-align: blue;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
